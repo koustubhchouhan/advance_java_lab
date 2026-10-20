@@ -1,0 +1,13 @@
+# Maven and Java build output
+**/target/
+*.class
+
+# Bundled local JDKs and IDE/runtime state
+**/oracleJdk-*/
+.classpath
+.project
+.settings/
+
+# Local IDE metadata
+.idea/
+*.iml
